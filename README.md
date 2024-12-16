@@ -67,4 +67,4 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ---
 
-Enjoy rolling your way to victory with Tenzies! Let me know if you'd like any tweaks to this description. 😊
+Enjoy rolling your way to victory with Tenzies! 😊
