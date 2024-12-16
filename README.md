@@ -20,8 +20,7 @@ Tenzies is a fun and addictive dice-rolling game built with **React** and styled
 
 ## 🖥 Demo
 
-[Live Demo](#)  
-*Add a link to your deployed project here, such as on Vercel, Netlify, or GitHub Pages.*
+[Live Demo](https://amaralazizy.github.io/tenzies-game/)
 
 ## 🧑‍💻 Technologies Used
 
